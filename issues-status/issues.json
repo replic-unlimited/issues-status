@@ -1,0 +1,14 @@
+{
+  "updated_at": "2025-09-03T15:09:39.014Z",
+  "issues": [
+    {
+      "number": 1,
+      "title": "[Suporte] Incidente teste",
+      "state": "open",
+      "labels": [],
+      "created_at": "2025-09-02T22:57:19Z",
+      "closed_at": null,
+      "assignees": []
+    }
+  ]
+}
