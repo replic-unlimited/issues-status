@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Status dos Incidentes</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-50 text-gray-900">
+    <div class="max-w-7xl mx-auto p-6">
+      <h1 class="text-3xl font-bold mb-6">Painel</h1>
+
+      <div class="flex flex-wrap gap-3 mb-6">
+        <button onclick="filterIssues('all')" class="px-3 py-1 bg-gray-200 text-sm hover:bg-gray-300">Todos</button>
+        <button onclick="filterIssues('open')" class="px-3 py-1 bg-green-200 rounded text-sm hover:bg-green-300">
+          Abertos
+        </button>
+        <button onclick="filterIssues('closed')" class="px-3 py-1 bg-red-200 rounded text-sm hover:bg-red-300">
+          Fechados
+        </button>
+      </div>
+
+      <div id="issues" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+
+      <p id="last-updated" class="text-sm text-gray-500 mt-6"></p>
+    </div>
+
+    <script src="./js/script.js"></script>
+  </body>
+</html>
