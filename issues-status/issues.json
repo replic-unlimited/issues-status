@@ -1,6 +1,19 @@
 {
-  "updated_at": "2025-09-05T11:52:23.540Z",
+  "updated_at": "2025-09-05T12:20:59.256Z",
   "issues": [
+    {
+      "number": 2,
+      "title": "[Suporte] Sem acesso",
+      "state": "open",
+      "labels": [
+        "bug",
+        "suporte",
+        "urgencia-alta"
+      ],
+      "created_at": "2025-09-05T12:17:52Z",
+      "closed_at": null,
+      "assignees": []
+    },
     {
       "number": 1,
       "title": "[Suporte] Incidente teste",
