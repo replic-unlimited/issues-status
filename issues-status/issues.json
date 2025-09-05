@@ -1,18 +1,23 @@
 {
-  "updated_at": "2025-09-05T18:48:05.731Z",
+  "updated_at": "2025-09-05T18:55:21.435Z",
   "issues": [
     {
       "number": 2,
       "title": "[Suporte] Sem acesso",
-      "state": "open",
+      "state": "closed",
       "labels": [
         "bug",
         "suporte",
         "urgencia-alta"
       ],
       "created_at": "2025-09-05T12:17:52Z",
-      "closed_at": null,
-      "assignees": []
+      "closed_at": "2025-09-05T18:54:50Z",
+      "assignees": [
+        {
+          "login": "vieira-a",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65618765?v=4"
+        }
+      ]
     },
     {
       "number": 1,
