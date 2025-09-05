@@ -46,6 +46,7 @@ function renderIssues(issues) {
           <div>
             <h2 class="text-lg font-semibold mb-2">${issue.title}</h2>
             <div class="flex flex-wrap gap-1 mb-2">${labelsHtml}</div>
+            <a class="text-sm text-gray-700 font-bold mb-1 underline pointer" href="https://github.com/replic-unlimited/kb/issues/${issue.number}">Ticket #${issue.number}</a> 
             <p class="text-sm text-gray-700 mb-1"><strong>Status:</strong> ${issue.state}</p>
             <p class="text-sm text-gray-700 mb-1"><strong>Abertura:</strong> ${new Date(
               issue.created_at
