@@ -1,6 +1,19 @@
 {
-  "updated_at": "2025-09-08T17:53:56.615Z",
+  "updated_at": "2025-09-08T18:16:28.079Z",
   "issues": [
+    {
+      "number": 4,
+      "title": "[Suporte] Cliente não recebeu acesso",
+      "state": "open",
+      "labels": [
+        "bug",
+        "suporte",
+        "urgencia-alta"
+      ],
+      "created_at": "2025-09-08T18:12:31Z",
+      "closed_at": null,
+      "assignees": []
+    },
     {
       "number": 3,
       "title": "[Suporte] Cliente não consegue acessar a ferramenta",
