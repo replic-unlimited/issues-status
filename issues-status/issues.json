@@ -1,6 +1,28 @@
 {
-  "updated_at": "2025-09-13T14:42:03.188Z",
+  "updated_at": "2025-09-13T14:52:08.678Z",
   "issues": [
+    {
+      "number": 7,
+      "title": "Remetente do email de confirmação de registro de usuário",
+      "state": "open",
+      "labels": [
+        "melhorias"
+      ],
+      "created_at": "2025-09-13T14:45:50Z",
+      "closed_at": null,
+      "assignees": []
+    },
+    {
+      "number": 6,
+      "title": "Validação durante o registro de usuário",
+      "state": "open",
+      "labels": [
+        "melhorias"
+      ],
+      "created_at": "2025-09-13T14:43:05Z",
+      "closed_at": null,
+      "assignees": []
+    },
     {
       "number": 5,
       "title": "[Suporte] Domínio",
