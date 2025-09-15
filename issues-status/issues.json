@@ -1,6 +1,17 @@
 {
-  "updated_at": "2025-09-15T14:11:59.508Z",
+  "updated_at": "2025-09-15T14:31:31.419Z",
   "issues": [
+    {
+      "number": 8,
+      "title": "Feedback de sessão expirada",
+      "state": "open",
+      "labels": [
+        "melhorias"
+      ],
+      "created_at": "2025-09-15T14:29:24Z",
+      "closed_at": null,
+      "assignees": []
+    },
     {
       "number": 7,
       "title": "Remetente do email de confirmação de registro de usuário",
